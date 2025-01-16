@@ -1,5 +1,5 @@
 import logo from '../assets/imagenes/logo3.png';
-import './Titulocomponente.css';
+import './titulocomponente.css';
 
 export default function Titulocomponente() {
   return (
