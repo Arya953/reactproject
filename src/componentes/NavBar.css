@@ -1,0 +1,30 @@
+.parent-buttons {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+#buttons-container {
+  display: inline-block; 
+  flex-direction: row; 
+  gap: 20px; 
+  }
+
+  #button {
+    padding: 10px 20px; 
+    font-size: 16px;
+    background-color: #43a4ff; 
+    color: white; 
+    border: 2px solid #1453ff; 
+    border-radius: 25px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+  }
+  
+  #button:hover {
+    background-color: #ff0000;
+    border-color: #000000; 
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); 
+  }
+  

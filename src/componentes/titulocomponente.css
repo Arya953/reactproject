@@ -1,0 +1,15 @@
+.titulocomponente-container {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .titulocomponente-logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 10rem;
+    border-color: blue;
+  }

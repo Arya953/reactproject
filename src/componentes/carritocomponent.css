@@ -1,0 +1,13 @@
+.carrito-container {
+    display: flex;
+}
+
+.carrito-button{
+    padding: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px; 
+    width: 150px; 
+    height: auto; 
+    border-radius: 20rem;
+}
